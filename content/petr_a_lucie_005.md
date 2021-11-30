@@ -1059,4 +1059,4 @@ Stisk prstů jim připomněl, že tak plují spolu. A opět se uviděli v šeru 
 
 V té chvíli Lucie, jež zrovna vášnivým pohledem políbila drahého přítele (oči maje přivřeny a rty pootevřeny, zdál se ztracen v slastné extázi, a jakoby nadnášen vděčnou radostí, pozdvihoval hlavu k oné nejvyšší Síle, kterou člověk pudově hledá vždycky nahoře), užasle spatřila v červeném a zlatém okně postranní kaple usměvavou tvář té rusovlásky. A zatímco tak na ni mlčky pohlížela, trnouc úžasem, znovu na té zvláštní tvářičce uviděla onen výraz zděšení a soucitu. V témž okamžiku se silný pilíř, o nějž se opírali, pohnul a celý kostel se do základů zachvěl. Srdce zabušilo v Lucii tak, že v ní přehlušilo rachot výbuchu a křik věřících; a nemajíc kdy se bát nebo trpět, vrhla se, aby ho jako slepice svá kuřátka zakryla vlastním tělem, vrhla se na Petra, blaženě se usmívajícího při zavřených očích. Mateřským objetím si tu drahou hlavu ze všech sil přitiskla do klína a sklonila se nad Petrem, s ústy na jeho šíji, takže byli schouleni v nepatrné klubíčko. A mohutný pilíř je naráz pohřbil pod svými sutinami.
 
-__Srpen 1918__
+_Srpen 1918_
