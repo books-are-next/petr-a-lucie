@@ -31,14 +31,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "petr_a_lucie_001.md",
             "xhtml": "Petr_a_Lucie_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -46,9 +47,9 @@
             "filename": "petr_a_lucie_002.md",
             "xhtml": "Petr_a_Lucie_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -56,9 +57,9 @@
             "filename": "petr_a_lucie_003.md",
             "xhtml": "Petr_a_Lucie_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -66,9 +67,9 @@
             "filename": "petr_a_lucie_004.md",
             "xhtml": "Petr_a_Lucie_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -79,8 +80,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "DĚJ TRVÁ OD STŘEDY..."
           },
           {
             "filename": "petr_a_lucie_006.md",
@@ -90,15 +92,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "petr_a_lucie_007.md",
             "xhtml": "Petr_a_Lucie_007.html",
             "id": 6,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -112,7 +115,7 @@
       "identifier": "e584d514-5b7c-4c5f-941a-5c0b5d98c0a0",
       "author": "Romain Rolland",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-30T08:44:26.071Z"
+      "modified": "2021-11-30T08:54:51.574Z"
     },
     "chapters": [
       {
@@ -246,6 +249,6 @@
       "user": "books-are-next",
       "repo": "petr-a-lucie"
     },
-    "generatedAt": 1638261866454
+    "generatedAt": 1638262491894
   }
 }
