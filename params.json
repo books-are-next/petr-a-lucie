@@ -6,7 +6,9 @@
       "author": "Romain Rolland",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-30T08:29:11.700Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -81,8 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": true,
-            "children": [],
-            "title": "DĚJ TRVÁ OD STŘEDY..."
+            "title": "DĚJ TRVÁ OD STŘEDY...",
+            "children": []
           },
           {
             "filename": "petr_a_lucie_006.md",
@@ -92,8 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "children": []
           },
           {
             "filename": "petr_a_lucie_007.md",
@@ -115,7 +117,7 @@
       "identifier": "e584d514-5b7c-4c5f-941a-5c0b5d98c0a0",
       "author": "Romain Rolland",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-30T08:54:51.574Z"
+      "modified": "2021-11-30T13:26:42.852Z"
     },
     "chapters": [
       {
@@ -249,6 +251,6 @@
       "user": "books-are-next",
       "repo": "petr-a-lucie"
     },
-    "generatedAt": 1638262491894
+    "generatedAt": 1638278803343
   }
 }
