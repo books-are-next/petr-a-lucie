@@ -10,17 +10,20 @@ meta:
   modified: '2021-11-30T08:29:11.700Z'
   languageCode: cs
 readingOrder:
-  - petr_a_lucie_001.html
-  - petr_a_lucie_002.html
-  - petr_a_lucie_003.html
-  - petr_a_lucie_004.html
   - petr_a_lucie_005.html
   - petr_a_lucie_006.html
-  - petr_a_lucie_007.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: petr_a_lucie_005.html
+        title: DĚJ TRVÁ OD STŘEDY...
+        hiddenTitle: true
+      - link: petr_a_lucie_006.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
