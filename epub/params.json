@@ -24,7 +24,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "mlpznakkurziva11b\nmlptitulkaprekladatel\nmlpversei\nmlpdopispodpis",
+      "em": "mlpznakkurziva11b\nmlptitulkaprekladatel\nmlpversei",
       "strong": "mlpznaktucne\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -117,7 +117,7 @@
       "identifier": "e584d514-5b7c-4c5f-941a-5c0b5d98c0a0",
       "author": "Romain Rolland",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-30T08:54:51.574Z"
+      "modified": "2021-11-30T13:36:41.667Z"
     },
     "chapters": [
       {
@@ -251,6 +251,6 @@
       "user": "books-are-next",
       "repo": "petr-a-lucie"
     },
-    "generatedAt": 1638262491894
+    "generatedAt": 1638279402026
   }
 }
