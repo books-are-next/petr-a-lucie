@@ -12,6 +12,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
+  - petr_a_lucie_002.html
   - petr_a_lucie_005.html
   - petr_a_lucie_006.html
   - colophon.html
