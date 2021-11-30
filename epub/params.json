@@ -1,1 +1,252 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Petr a Lucie",
+      "identifier": "e584d514-5b7c-4c5f-941a-5c0b5d98c0a0",
+      "author": "Romain Rolland",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-30T08:29:11.700Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "mlpuroven2kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "mlphvezdicky",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "mlpznakkurziva11b\nmlptitulkaprekladatel\nmlpversei\nmlpdopispodpis",
+      "strong": "mlpznaktucne\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "petr_a_lucie_001.md",
+            "xhtml": "Petr_a_Lucie_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "petr_a_lucie_002.md",
+            "xhtml": "Petr_a_Lucie_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "petr_a_lucie_003.md",
+            "xhtml": "Petr_a_Lucie_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "petr_a_lucie_004.md",
+            "xhtml": "Petr_a_Lucie_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "petr_a_lucie_005.md",
+            "xhtml": "Petr_a_Lucie_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "petr_a_lucie_006.md",
+            "xhtml": "Petr_a_Lucie_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "petr_a_lucie_007.md",
+            "xhtml": "Petr_a_Lucie_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Petr a Lucie",
+      "identifier": "e584d514-5b7c-4c5f-941a-5c0b5d98c0a0",
+      "author": "Romain Rolland",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-30T08:29:11.700Z",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_001.md",
+        "xhtml": "Petr_a_Lucie_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_002.md",
+        "xhtml": "Petr_a_Lucie_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_003.md",
+        "xhtml": "Petr_a_Lucie_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_004.md",
+        "xhtml": "Petr_a_Lucie_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_005.md",
+        "xhtml": "Petr_a_Lucie_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_006.md",
+        "xhtml": "Petr_a_Lucie_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "petr_a_lucie_007.md",
+        "xhtml": "Petr_a_Lucie_007.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre11",
+      "calibre12",
+      "calibre3",
+      "calibre4",
+      "calibre5",
+      "calibre7",
+      "calibre8",
+      "calibre9",
+      "mlpdopispodpis",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicenceparagraf",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpseznamdalsiodstavce",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlptitulkaprekladatel",
+      "mlpuroven2kapitola",
+      "mlpversei",
+      "mlpznakkurziva11b",
+      "mlpznaktucne",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection2"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "petr-a-lucie"
+    },
+    "generatedAt": 1638260951983
+  }
+}
