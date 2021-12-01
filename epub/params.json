@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Petr a Lucie",
@@ -49,7 +50,7 @@
             "filename": "petr_a_lucie_002.md",
             "xhtml": "Petr_a_Lucie_002.html",
             "id": 1,
-            "role": "break",
+            "role": "cover",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -254,3 +255,4 @@
     "generatedAt": 1638281519830
   }
 }
+
