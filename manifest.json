@@ -1,16 +1,24 @@
 {
-  "author": "Romain Rolland",
-  "edition": "beletrie",
-  "identifier": "rolland-petr-a-lucie-dc73a03",
-  "languagecode": "cs",
-  "modified": "2021-11-30T08:29:11.700Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Petr a Lucie",
-  "revision": "dc73a03",
+  "author": "Romain Rolland",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "rolland-petr-a-lucie-92080ae",
+  "revision": "92080ae",
+  "readingOrder": [
+    "petr_a_lucie_002.html",
+    "petr_a_lucie_005.html",
+    "petr_a_lucie_006.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:02:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396136882
+    "date": "Sat Jun 11 2022 12:08:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949315072
   },
   "documents": [
     {
@@ -54,7 +62,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Petr a Lucie",
+      "title": "Poznámky pod čarou",
       "file": "petr_a_lucie_006.html",
       "words": 3,
       "chars": 18,
@@ -74,7 +82,7 @@
       ]
     },
     {
-      "title": "Tiráž • Petr a Lucie",
+      "title": "Tiráž",
       "file": "colophon.html",
       "words": 154,
       "chars": 1012,
