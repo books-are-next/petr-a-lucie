@@ -9,7 +9,8 @@
       "modified": "2021-11-30T08:29:11.700Z",
       "languageCode": "cs",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "isbn": "978-80-274-2484-9"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -255,4 +256,3 @@
     "generatedAt": 1638281519830
   }
 }
-
