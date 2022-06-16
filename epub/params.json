@@ -10,7 +10,8 @@
       "languageCode": "cs",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "isbn": "978-80-274-2484-9"
+      "isbn": "978-80-274-2484-9",
+      "contentType": "prose"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
