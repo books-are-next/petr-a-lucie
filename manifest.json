@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "rolland-petr-a-lucie-8879756",
-  "revision": "8879756",
+  "identifier": "rolland-petr-a-lucie-aa8cce2",
+  "revision": "aa8cce2",
   "readingOrder": [
     "petr_a_lucie_002.html",
     "petr_a_lucie_005.html",
@@ -17,8 +17,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:43:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416633138
+    "date": "Fri Oct 21 2022 11:39:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352384480
   },
   "documents": [
     {
